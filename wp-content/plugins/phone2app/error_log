@@ -1,0 +1,1 @@
+[16-Jun-2016 05:57:46 UTC] Error Table 'koiticom_forero.wp_phone2app_form' doesn't exist de la base de datos de WordPress para la consulta SELECT id, link FROM wp_phone2app_form ; realizada por form_DAO->readForm

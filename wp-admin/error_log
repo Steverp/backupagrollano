@@ -1,0 +1,3 @@
+[13-Jun-2016 19:14:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/koiticom/public_html/prueba2/wp-includes/class-wp-image-editor.php on line 425
+[13-Jun-2016 19:15:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/koiticom/public_html/prueba2/wp-includes/class-wp-image-editor-imagick.php on line 497
+[13-Jun-2016 19:43:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/koiticom/public_html/prueba2/wp-includes/class-wp-image-editor-imagick.php on line 350
